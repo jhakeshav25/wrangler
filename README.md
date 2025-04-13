@@ -1,3 +1,8 @@
+## Usage of the 2 parsers
+- Byte Size Parser: Simplifies the conversion of human-readable byte sizes into numerical values for processing.
+
+- Time Duration Units Parser: Makes it easy to handle and manipulate time durations in applications.
+
 # Data Prep
 
 ![cm-available](https://cdap-users.herokuapp.com/assets/cm-available.svg)
